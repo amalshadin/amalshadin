@@ -49,5 +49,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/___shadin__">
-    <img src="https://drive.google.com/file/d/18VCbYM2RwKQK8FIKDK72tMs03gOa6vF9/view?usp=sharing">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30"/>
 </p>
