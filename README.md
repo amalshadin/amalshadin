@@ -26,7 +26,7 @@ I'm a Computer Science and Engineering student with a passion for programming an
 
 - 🔭 I’m currently working on **Hotel-Booking-App**
 - 🌱 I’m currently learning **React-Native**
-- 💬 Ask me about **C,Java, Python, and Web Development**
+- 💬 Ask me about **C, Java, Python, and Web and Mobile App Development**
 - 📫 How to reach me: **amalshadin10@gmail.com**
 
 ---
