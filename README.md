@@ -26,7 +26,7 @@ I'm a Computer Science and Engineering student with a passion for programming an
 
 - 🔭 I’m currently working on **Hotel-Booking-App**
 - 🌱 I’m currently learning **React-Native**
-- 💬 Ask me about **Java, Python, and Web Development**
+- 💬 Ask me about **C,Java, Python, and Web Development**
 - 📫 How to reach me: **amalshadin10@gmail.com**
 
 ---
@@ -51,7 +51,7 @@ Here are some of the technologies I've been working with recently:
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://cdn.simpleicons.org/java/007396" width="48" height="48" alt="Java" />
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="48" height="48" alt="Java"/>
       </a>
       <br>Java
     </td>
@@ -69,7 +69,7 @@ Here are some of the technologies I've been working with recently:
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack" >
-        <img src="https://cdn.simpleicons.org/css3/1572B6" width="48" height="48" alt="CSS3" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
@@ -78,6 +78,12 @@ Here are some of the technologies I've been working with recently:
         <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
+    </td>
+        <td align="center" width="96">
+      <a href="#-my-tech-stack" >
+        <img src="https://img.icons8.com/?size=512&id=123603&format=png" width="48" height="48" alt="React-Native" />
+      </a>
+      <br>React-Native
     </td>
      <td align="center" width="96">
       <a href="#-my-tech-stack" >
@@ -106,9 +112,9 @@ Here are some of the technologies I've been working with recently:
 
 <p align="center">
   <a href="https://github.com/amalshadin/re-gen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amalshadin&repo=YOUR-REPO-NAME-HERE&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amalshadin&repo=re-gen&theme=tokyonight" />
   </a>
   <a href="https://github.com/amalshadin/weather-flappy-bird">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amalshadin&repo=ANOTHER-REPO-NAME&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amalshadin&repo=weather-flappy-bird&theme=tokyonight" />
   </a>
 </p>
