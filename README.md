@@ -95,33 +95,39 @@ Here are some of the technologies I've been working with recently:
   <tr>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL"/>
       </a>
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB"/>
       </a>
         <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" alt="LaTeX"/>
       </a>
         <br>LaTeX
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJS"/>
       </a>
         <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code"/>
       </a>
         <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="Linux"/>
+      </a>
+        <br>Linux
     </td>
   </tr>
 </table>
