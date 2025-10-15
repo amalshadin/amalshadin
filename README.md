@@ -147,13 +147,6 @@ Here are some of the technologies I've been working with recently:
       </a>
         <br>IntelliJ IDEA
     </td>
-    
-    <!-- <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="" alt=""/>
-      </a>
-        <br>
-    </td> -->
   </tr>
 </table>
 
