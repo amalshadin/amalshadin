@@ -92,6 +92,26 @@ Here are some of the technologies I've been working with recently:
       <br>Git
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"
+      </a>
+        <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"
+      </a>
+        <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000"
+      </a>
+        <br>LaTeX
+    </td>
+  </tr>
 </table>
 
 ---
