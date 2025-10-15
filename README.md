@@ -79,17 +79,17 @@ Here are some of the technologies I've been working with recently:
       </a>
       <br>JavaScript
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#-my-tech-stack" >
+        <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
       <a href="#-my-tech-stack" >
         <img src="https://img.icons8.com/?size=512&id=123603&format=png" width="48" height="48" alt="React-Native" />
       </a>
       <br>React-Native
-    </td>
-     <td align="center" width="96">
-      <a href="#-my-tech-stack" >
-        <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
     </td>
   </tr>
   <tr>
@@ -104,6 +104,12 @@ Here are some of the technologies I've been working with recently:
         <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB"/>
       </a>
         <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack" >
+        <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
@@ -129,6 +135,25 @@ Here are some of the technologies I've been working with recently:
       </a>
         <br>Linux
     </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=32sNCVhNAx9Y&format=png&color=000000" alt="WebStorm"/>
+      </a>
+        <br>Web Storm
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ"/>
+      </a>
+        <br>IntelliJ IDEA
+    </td>
+    
+    <!-- <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="" alt=""/>
+      </a>
+        <br>
+    </td> -->
   </tr>
 </table>
 
