@@ -111,6 +111,18 @@ Here are some of the technologies I've been working with recently:
       </a>
         <br>LaTeX
     </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
+      </a>
+        <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
+      </a>
+        <br>VS Code
+    </td>
   </tr>
 </table>
 
