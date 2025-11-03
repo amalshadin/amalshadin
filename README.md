@@ -24,8 +24,8 @@
 
 I'm a Computer Science and Engineering student with a passion for programming and technology. I love building things that solve real-world problems and am always eager to learn new skills.
 
-- 🔭 I’m currently working on **Hotel-Booking-App**
-- 🌱 I’m currently learning **React-Native**
+- 🕸️ Currently Learning **Machine Learning**
+- 🌱 I’m Focusing on **Resct and React-Native**
 - 💬 Ask me about **C, Java, Python, and Web and Mobile App Development**
 - 📫 How to reach me: **amalshadin10@gmail.com**
 
