@@ -168,9 +168,9 @@ Here are some of the technologies I've been working with recently:
 
 <p align="center">
   <a href="https://github.com/amalshadin/ksu-rit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amalshadin&repo=re-gen&theme=tokyonight" />
+    KSU RIT
   </a>
   <a href="https://github.com/amalshadin/Keam-Mock-Test">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amalshadin&repo=weather-flappy-bird&theme=tokyonight" />
+    Keam Mock Test
   </a>
 </p>
